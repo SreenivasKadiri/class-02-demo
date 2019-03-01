@@ -1,3 +1,22 @@
 body {
     background: rgb(184, 102, 102);
 }
+
+header {
+    text-align: center;
+    text-decoration-color: blue
+}
+h1{
+    text-decoration-color: chocolate;
+    text-align: center; 
+}
+
+header p{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    text-size-adjust: 20;
+
+}
